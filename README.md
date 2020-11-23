@@ -8,3 +8,7 @@ The project identified which sales and marketing programs drive the most impact,
 - Determine the priority order of tactics
 - Determine which marketing campaigns returned the most
 - Identify what times throughout the year seem to have the highest ROI for Sales tactics and Marketing Activations
+
+This project was completed by Yang Sun, Christopher PainTon, Zhechuan Jin, Jiayi Wang, Sue Xinxue Gu and me. Due to confidential issues, the original data files could not be uploaded.
+
+To get a quick review of the project, please see the 'KH Project.pdf' file.
